@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6564ab7fc884b6975287e3a5"
+  },
+  "name": "cheese",
+  "slug": "cheese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564abd6c884b6975287e3bc"
+  },
+  "name": "butter",
+  "slug": "butter",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564abf6c884b6975287e3c1"
+  },
+  "name": "yoghurt",
+  "slug": "yoghurt",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564ac16c884b6975287e3c6"
+  },
+  "name": "milk",
+  "slug": "milk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564acb0c884b6975287e3cb"
+  },
+  "name": "curd",
+  "slug": "curd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564acc3c884b6975287e3d0"
+  },
+  "name": "lassi",
+  "slug": "lassi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656767ab6db2494680c17872"
+  },
+  "name": "ghee",
+  "slug": "ghee",
+  "__v": 0
+}]

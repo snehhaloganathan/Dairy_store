@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "655a27990d045dd9f46d6c3d"
+  },
+  "name": "sneha",
+  "email": "sneha@gmail.com",
+  "password": "$2b$10$0D6sAPBDch.AZ2YHLUPjFu5PAcmS393HSNZiDFa9aabOu2fcUWY16",
+  "phone": "9876543210",
+  "address": "erode",
+  "answer": "rasagulla",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-11-19T15:19:53.895Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T04:36:28.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a282b0d045dd9f46d6c51"
+  },
+  "name": "varshini",
+  "email": "varshini@gmail.com",
+  "password": "$2b$10$dcpazzXWaS5G4Cx8/DpFkubWkoCdhCeu0DvE2XjjfEz/RdhEjJXnC",
+  "phone": "9876543219",
+  "address": "erode",
+  "answer": "curd",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-11-19T15:22:19.235Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:22:19.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a28a60d045dd9f46d6c60"
+  },
+  "name": "susindhiran",
+  "email": "susi@gmail.com",
+  "password": "$2b$10$eB7ND1COKN0Ldk5YB86MRejGpfmgF.pSKlRt9IOVH4FvjHeWbNFI6",
+  "phone": "9876543219",
+  "address": "erode",
+  "answer": "rasagulla",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-11-19T15:24:22.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T15:24:22.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ac3bd6221987cd4dfe842"
+  },
+  "name": "nivi",
+  "email": "nivi@gmail.com",
+  "password": "$2b$10$2lcO3i5pUGMjTGVWoU/Vk..Er3pf2/vARcjlXdX.d1SfykINEdDgG",
+  "phone": "9876543210",
+  "address": "erode",
+  "answer": "rasagulla",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-11-20T02:26:05.660Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T02:26:05.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655aeb1eb34b51b0865e723c"
+  },
+  "name": "vedha",
+  "email": "vedha@gmail.com",
+  "password": "$2b$10$LzxUuMxZ.TPmLfKXw1uDCuJsHqBdVmNr98XFy8I6Kko1yfu44auUO",
+  "phone": "9876543210",
+  "address": "erode",
+  "answer": "curd",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-11-20T05:14:06.913Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T05:14:06.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b26d74d05c1f2292da424"
+  },
+  "name": "joe",
+  "email": "joe@gmail.com",
+  "password": "$2b$10$mcldF0wahoV7jTlJmJzvzukwqQ2T9V7HOf3GiIwkjex3MBxpst34e",
+  "phone": "9944960249",
+  "address": "erd",
+  "answer": "milk",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-11-20T09:28:55.129Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T09:28:55.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656225c15896924138978edf"
+  },
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$PY1Kn8n6p2FMczAGRjfBIOonGDPvBv1n3dgcgzsaAjjy5d0zqWKZa",
+  "phone": "9842860249",
+  "address": "erode",
+  "answer": "lassi",
+  "role": 1,
+  "createdAt": {
+    "$date": "2023-11-25T16:50:09.652Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T16:50:09.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65676ce76db2494680c178fb"
+  },
+  "name": "rasika",
+  "email": "rasika@gmail.com",
+  "password": "$2b$10$1Gbpk8gFWEHtXBrH8RAr9.bEPVGLHjn0.Tobzn6zEM78ra/vW3nEa",
+  "phone": "9944960249",
+  "address": "karur",
+  "answer": "milk",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-11-29T16:55:03.815Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T16:55:03.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576a8468420c0f76c56ebaf"
+  },
+  "name": "reva",
+  "email": "reva@gmail.com",
+  "password": "$2b$10$Be6DJQ2Mo2D05RECur8yTuxPSBHJ/0989X616cSSo3O.RsZGEg3TG",
+  "phone": "9876543219",
+  "address": "erode",
+  "answer": "curd",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-12-11T06:12:22.811Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T06:12:22.811Z"
+  },
+  "__v": 0
+}]
